@@ -1,2 +1,3 @@
-#Did I learn something privacy
-The privacy policy of my App Did I learn something?
+--DID I LEARN SOMETHING PRIVACY POLICY-- 
+Thank you for using my app Did I learn something. This is our official privacy policy as of October 2025 please take some time to read trough it. --1-- Telementry, Analytics, and Trackers : Did I learn something uses no trackers analytics services or trackers.
+--2-- Servers and Connectivity : Did I learn something has no servers and requires no internet connectivity. All data is processed on your device. --3-- Support : If you have any questions please contact us at antesoldo215@gmail.com. For better support please include The issue and what application you have a problem with as we use this email for more than one application.
